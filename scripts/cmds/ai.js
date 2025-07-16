@@ -12,7 +12,7 @@ module.exports = {
     author: "MahMUD",
     countDown: 5,
     role: 0,
-    category: "ai",
+    category: "AI",
     guide: "{pn} <question>"
   },
 
