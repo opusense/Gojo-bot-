@@ -14,7 +14,7 @@ module.exports = {
     description: {
       en: "Flux",
     },
-    category: "Img gen",
+    category: "Image Gen",
     guide: {
       en: "   {pn}flux [prompt]"
     },
