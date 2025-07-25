@@ -6,9 +6,9 @@ module.exports.config = {
   name: "sdxl",
   version: "1.0",
   role: 0,
-  author: "xrotick🥀",
+  author: "O P U",
   description: "Generate an AI image using SDXL Lightning API",
-  category: "𝗜𝗠𝗔𝗚𝗘 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥",
+  category: "Image Gen",
   guide: "{pn} [prompt]\nExample: {pn} a futuristic city in the clouds",
   countDown: 10
 };
