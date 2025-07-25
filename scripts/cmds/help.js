@@ -33,7 +33,7 @@ module.exports = {
     if (!rawInput) {
       let msg = "╔══════ BOT HELP MENU ══════╗\n\n";
       for (const category of Object.keys(categories).sort()) {
-        msg += `┍━━━[ ${category} ]\n┋`;
+        msg += `┍━━━📂[ ${category} ]\n┋`;
 
         const cmds = categories[category].sort();
         for (let i = 0; i < cmds.length; i++) {
