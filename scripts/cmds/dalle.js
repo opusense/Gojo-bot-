@@ -8,11 +8,11 @@ module.exports = {
     name: "dalle",
     aliases: ["bing", "create", "imagine"],
     version: "1.0",
-    author: "Dipto",
+    author: "O P U",
     countDown: 15,
     role: 0,
     description: "Generate images by Unofficial Dalle3",
-    category: "IMAGE GENERATOR",
+    category: "Image Gen",
     guide: { en: "{pn} prompt" }
   }, 
   onStart: async({ api, event, args }) => {
