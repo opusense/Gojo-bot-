@@ -10,11 +10,11 @@ const baseApiUrl = async () => {
 module.exports = {
   config: {
     name: "poli",
-    author: "MahMUD",
+    author: "O P U",
     version: "1.7",
     cooldowns: 10,
     role: 0,
-    category: "Image gen",
+    category: "Image Gen",
     guide: {
       en: "{p}poli <prompt>"
     }
