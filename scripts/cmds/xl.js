@@ -6,13 +6,13 @@ module.exports = {
  config: {
  name: 'xl',
  version: '1.0',
- author: "Chitron Bhattacharjee",
+ author: "O P U",
  countDown: 10,
  role: 0,
  longDescription: {
  en: 'Generate an image from text using SDXL.'
  },
- category: 'image',
+ category: 'Image Gen',
  guide: {
  en: '{pn} prompt [--ar=<ratio>] or [--ar <ratio>]'
  }
